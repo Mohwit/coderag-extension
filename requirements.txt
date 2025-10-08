@@ -1,1 +1,3 @@
 git+https://github.com/Mohwit/coderag.git
+litellm
+python-dotenv
